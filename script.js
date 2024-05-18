@@ -24,7 +24,7 @@ const playAgain = function () {
   // Game Engine
   score = 20;
   secretNumber = Math.trunc(Math.random() * 20) + 1;
-  console.log(secretNumber);
+  
 
   // User UI
   messageQ.textContent = 'Start guessing...';

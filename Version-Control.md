@@ -16,7 +16,7 @@ This document tracks the versions and changes made to the project.
 
 **Changes:**
 
-- Added a comprehensive Version Control document to track all versions and changes made to the project.
+- Update to the Version Control document due to commit date changes.
 
 ## Version 1.1
 
@@ -25,6 +25,7 @@ This document tracks the versions and changes made to the project.
 **Changes:**
 
 - Added initial documentation to the project.
+- Added a comprehensive Version Control document to track all versions and changes made to the project.
 
 ## Version 1.0
 

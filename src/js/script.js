@@ -69,8 +69,7 @@ function guessNum() {
     // Wrong Guess
     win = false;
     if (score > 1) {
-      messageQ.textContent =
-        guess > secretNumber ? '📈 Too High!' : '📉 Too Low!';
+      messageQ.textContent = guess > secretNumber ? '📈 Too High!' : '📉 Too Low!';
       score--;
       scoreQ.textContent = score;
     } else {

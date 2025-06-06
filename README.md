@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
    ```
 3. Open `index.html` in your preferred web browser.
 
-> You can also preview the game by visiting the following link: [Play Guess My Number](http://kislev.me/guess-my-number)
+> You can also preview the game by visiting the following link: [Play Guess My Number](https://kislevlevy.github.io/guess-my-number/)
 
 ## How to Play
 
